@@ -1,0 +1,13 @@
+red
+red red
+red red yellow = linear-gradient(to right, red 0%, red 66.67%, yellow 66.67%, yellow 100%);
+red red yellow green = linear-gradient(to right, red 0%, red 50%, yellow 50%, yellow 75%, green 75%, green 100%);
+red red yellow green green = linear-gradient(to right, red 0%, red 50%, yellow 50%, yellow 75%, green 75%, green 100%);
+
+20
+40
+60
+
+#7ED321
+#FFC000
+#D10000
